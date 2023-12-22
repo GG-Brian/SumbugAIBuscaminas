@@ -12,4 +12,5 @@ _>>>>>>BAILEMOS
 
 [![GallinaLord3000 Enterprise Text](https://drive.google.com/file/d/1uE4HTwI_grYt1Idp4ubuxSbaeAwW65DP/view?usp=sharing "GallinaLord3000 Enterprise Text")](https://drive.google.com/file/d/1uE4HTwI_grYt1Idp4ubuxSbaeAwW65DP/view?usp=sharing "GallinaLord3000 Enterprise Text")
 
-QUIERO UN POLLITO
+ESTO NO ES NAVIDAD
+ESTO ES LO CONTRARIO
