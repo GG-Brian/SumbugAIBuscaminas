@@ -1,6 +1,6 @@
 # SumbugAIBuscaminas
 Buscaminas funcional con IA
-
+_>>>>>>BAILEMOS
 # Sumbug AI Buscaminas
 ## A functional, simple game of Minesweeper
 ### Brought upon you by *GallinaLord3000*
