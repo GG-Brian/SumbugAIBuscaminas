@@ -12,4 +12,4 @@ _>>>>>>BAILEMOS
 
 [![GallinaLord3000 Enterprise Text](https://drive.google.com/file/d/1uE4HTwI_grYt1Idp4ubuxSbaeAwW65DP/view?usp=sharing "GallinaLord3000 Enterprise Text")](https://drive.google.com/file/d/1uE4HTwI_grYt1Idp4ubuxSbaeAwW65DP/view?usp=sharing "GallinaLord3000 Enterprise Text")
 
-QUIERO UN POLLITO
+Solo quiero mostrar cosas al mundo para hacerlos sonreir o sentir, que no sea odio o frustración
