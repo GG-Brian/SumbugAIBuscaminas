@@ -12,9 +12,13 @@ _>>>>>>BAILEMOS
 
 [![GallinaLord3000 Enterprise Text](https://drive.google.com/file/d/1uE4HTwI_grYt1Idp4ubuxSbaeAwW65DP/view?usp=sharing "GallinaLord3000 Enterprise Text")](https://drive.google.com/file/d/1uE4HTwI_grYt1Idp4ubuxSbaeAwW65DP/view?usp=sharing "GallinaLord3000 Enterprise Text")
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 QUIERO UN avecito
 
+=======
+QUIERO UN POLLITO
+>>>>>>> parent of 800a300 (readme edit avecito)
 =======
 QUIERO UN POLLITO
 >>>>>>> parent of 800a300 (readme edit avecito)
